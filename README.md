@@ -1,2 +1,4 @@
-# weather
-getting weather from API, express, node.js, javascript, html.
+# Weather Project
+getting weather from openweathermap.org API
+
+
