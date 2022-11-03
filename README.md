@@ -1,4 +1,5 @@
 # Weather Project
+
 Getting weather from openweathermap.org API
 
 ### Install the packages
@@ -12,3 +13,5 @@ npm install
 ```
 nodemon app.js
 ```
+
+<img src="WeatherSimpleApp.gif">
