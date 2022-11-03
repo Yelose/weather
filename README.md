@@ -1,4 +1,4 @@
-# Weather Project
+# Weather simple API fetch
 
 Getting weather from openweathermap.org API
 
