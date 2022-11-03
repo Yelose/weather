@@ -1,4 +1,14 @@
 # Weather Project
-getting weather from openweathermap.org API
+Getting weather from openweathermap.org API
 
+### Install the packages
 
+```
+npm install
+```
+
+### Run the app
+
+```
+nodemon app.js
+```
